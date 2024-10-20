@@ -1,3 +1,6 @@
+# will take too much time to complete
+# Total 1272 questions in one jsonl file
+
 from question_maker import question_list
 from RAG_and_LLM import MCQSolver
 def validate_model(questions_list):
