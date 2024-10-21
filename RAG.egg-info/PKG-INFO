@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: RAG
+Version: 0.0.1
+Author: Nagraj_Gaonkar
+Author-email: nagrajgaonkarmumbai749@gmail.com
+Requires-Dist: langchain_groq
